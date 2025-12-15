@@ -1,0 +1,151 @@
+﻿Database,Dialogue_1
+Author,
+Version,
+Description,
+
+---Conversations---
+
+Conversation 1,S1_Forest
+Description,첫 시작 ~ 숲의 절벽에서 뛰어내리는 곳까지
+entrytag,Actor,Description,Dialogue Text
+Player_1_1,Player,,여긴 어디지..? 숲인가..?
+police_1_2,police,,당장 거기서!
+Player_1_3,Player,,이런 잡히겠어! 일단 이 숲을 빠져나가자.
+Player_1_4,Player,,분명 나가는 곳이 있을 거야.
+Player_1_5,Player,,다행이다! 여기 출구가 있어!
+Player_1_6,Player,,아니..! 여긴 절벽이잖아?
+police_1_7,police,,탈옥수를 찾았다! 얼른 붙잡아!
+Player_1_8,Player,,"어,,어쩌지? 더 이상 길은 없는데?"
+Player_1_9,Player,,다른 길을 찾아본다.
+Player_1_10,Player,,[뛰어 내린다]
+Player_1_11,Player,,안돼!!!!
+police_1_12,police,,탈옥수를 붙잡았다! 다들 철수해!
+Player_1_13,Player,,에라 모르겠다..!
+Player_1_14,Player,,으윽 얼른 올라가자
+
+Conversation 2,S2_Cave
+Description,동굴 앞 ~ 동굴 끝까지
+entrytag,Actor,Description,Dialogue Text
+Player_2_1,Player,,사..산건가..?
+Player_2_2,Player,,여기는 동굴..? 일단 가보는 수밖에..
+Player_2_3,Player,,왜 이렇게 된걸까.. 천벌을 받은걸까?
+Player_2_4,Player,,죗 값을 치르고 있는 걸까?
+Player_2_5,Player,,나는 살아서는 안되는 존재인걸까?
+____2_6,???,,아니야
+Player_2_7,Player,,!!!!!
+Player_2_8,Player,,누구..?
+____2_9,???,,천사 혹은 악마
+Player_2_10,Player,,천사? 악마라니?
+____2_11,???,,너를 구원할 자
+Player_2_12,Player,,구원할 자?
+____2_13,???,,살고 싶지 않아?
+Player_2_14,Player,,……이젠 그만 하고 싶어…...
+____2_15,???,,그게 너의 진심?
+Player_2_16,Player,,힘들어.. 나는 이제 지쳤어..
+____2_17,???,,끌어내봐
+Player_2_18,Player,,무슨 말이야?
+____2_19,???,,자신을 끌어내봐. 보인다면 보이는 대로.
+____2_20,???,,보이지 않는다면 보이지 않는 대로.
+____2_21,???,,너의 진심 속 그 마음을 끌어내.
+____2_22,???,,그게 너니까.
+Player_2_23,Player,,진심 속 나의 마음…
+____2_24,???,,다시 한 번 물을게. 살고 싶어?
+Player_2_25,Player,,나는…나는……!
+Player_2_26,Player,,살고 싶어…
+____2_27,???,,너의 말 잘 이해 했어.
+____2_28,???,,살아서 만들어가. 너 자신을.
+____2_29,???,,그 속엔 내가 함께 할테니.
+Player_2_30,Player,,꿈..? 아니야.. 꿈이 아니었어
+Player_2_31,Player,,누군가가 나를 살려줬어. 이제 포기하지 않아.
+Player_2_32,Player,,나에게 주어진 이 기회를 절대 버리지 않겠어.
+Player_2_33,Player,,그런데 대체 여긴 어디지? 계속 걸어가면 뭐가 나오려나?
+
+Conversation 3,S3_Tower
+Description,탑 입구 ~ 공 던진 후까지
+entrytag,Actor,Description,Dialogue Text
+Player_3_2,Player,탑 오르기,앞에 있는 건.. 탑?
+Player_3_3,Player,,이거.. 올라가야 하는 건가?
+Player_3_4,Player,,생각보다 높잖아.. 무서운데?
+Player_3_5,Player,,거의 다 온 것 같은데..?
+Player_3_6,Player,,뭐지..? 여기가 끝인가? 길이 없잖아!
+Player_3_7,Player,,이거 헛고생 한건가..?
+Player_3_8,Player,,이 구슬은 뭐지..?
+Player_3_9,Player,,구슬을 저 곳으로 던지면 되는 건가..?
+Player_3_10,Player,,으악 잘못 던졌어!
+Player_3_15,Player,,...!
+Player_3_16,Player,,문이 막혔어
+Player_3_17,Player,,여긴 어디지?
+____3_18,???,,E로 나를 잡고 L로 던져!
+____3_19,???,,상자 열기 : 왼쪽 마우스\n\n상자 닫기 : 오른쪽 마우스
+Player_3_20,Player,,i 를 눌러 공을 버리시오
+
+Conversation 4,S4_Bridge
+Description,다리 ~ 사령관 가는 길
+entrytag,Actor,Description,Dialogue Text
+Player_4_1,Player,,뭐가 보이는데..? 
+Player_4_2,Player,,상자잖아? 열어볼까?
+Player_4_3,Player,,하늘..섬으로 가는 길..? 사령관의 시험..?
+Player_4_4,Player,,도대체 뭐가 뭔지 모르겠네..
+Player_4_5,Player,,일단 여기까지 온 이상 뭐라도 해봐야 겠어
+Player_4_6,Player,,하늘에 떠 있는 건...나무?!
+Player_4_7,Player,,저 빨간 다리가 사령관으로 가는 길 같은데?
+Player_4_8,Player,,휴.. 다리가 꽤 기네.. Shift키로 달려볼까
+Player_4_9,Player,,나무 잖아? 뭐가 저렇게 거대해?
+Player_4_10,Player,,헉..! 여긴 어디지..!!
+Player_4_11,Player,,내가 지금 구슬을 던진 곳으로 온건가?? 대체 어떻게..
+Player_4_12,Player,,일단 앞으로 가볼까..
+
+Conversation 5,S5_SROutside
+Description,사령관 문 앞 ~ 사령관 설명
+entrytag,Actor,Description,Dialogue Text
+Player_5_1,Player,,여기가 사령관인가? 엄청 거대하잖아?
+Player_5_2,Player,,어서 가보자
+하네스_5_3,하네스,,당신은 누구신가요?
+Player_5_4,Player,,헉 누구..?
+하네스_5_5,하네스,,"저는 [var=Conversant], 사령관의 시험관이죠."
+하네스_5_6,하네스,,당신은?
+Player_5_7,Player,,저는 [var=Actor]… 입니다.
+하네스_5_8,하네스,,"잭, 이곳은 사령관입니다. 하늘섬으로 가기 위한 관문이죠."
+하네스_5_9,하네스,,만약 실패하면 다시는 빠져나올 수 없습니다.
+하네스_5_10,하네스,,그래도 들어가시겠습니까?
+Player_5_11,Player,,아니오
+Player_5_12,Player,,네
+하네스_5_13,하네스,,잘 오셨습니다. 그럼 사령관에 대해 설명해 드리겠습니다.
+하네스_5_14,하네스,,사령관에는 4명의 사령들이 있습니다. 그들은 유령이죠
+하네스_5_15,하네스,,당신은 시험을 통과하고 사령의 피 4개를 훔쳐 최상층의 제단에 바쳐야 합니다.
+Player_5_16,Player,,4개의 피… 그 사령들은 어디에 있죠?
+하네스_5_17,하네스,,그럼 무운을 빕니다.
+Player_5_18,Player,,"자, 잠깐!"
+____5_19,???,,(키득키득)
+Player_5_20,Player,,무슨 소리지?
+____5_21,???,,(키득키득)
+Player_5_22,Player,,계단 옆에서 나는 소리 같은데..
+하네스_5_23,하네스,,
+
+Conversation 6,S6_SROne
+Description,한령의 방 클리어 ~ 한령의 힘 얻음
+entrytag,Actor,Description,Dialogue Text
+____6_1,???,,안녕! 용케 날 찾았네? 
+Player_6_2,Player,,어..안녀
+____6_3,???,,그럼 나 잡아봐! (키득키득)
+Player_6_4,Player,,이런…
+____6_5,???,,여기야! 여기!
+한령_6_6,한령,,여기까지 오다니! 내 검은 길 어때? 재밌지? 나는 '장난' 성질을 가진 한령이야
+한령_6_7,한령,,알다시피 사령 중 하나지!
+한령_6_8,한령,,너가 한번 더 나의 시험을 깨면 상을 줄게! 
+Player_6_9,Player,,그런…
+Player_6_10,Player,,으악!
+한령_6_11,한령,,진짜 해냈잖아? 너 정말 대단하구나!
+한령_6_12,한령,,그럼 문을 열어줄게. 덕분에 재밌었어! 다음에 또 만나 (키득키득)
+Player_6_13,Player,,…자기 멋대로네 휴우..
+Player_6_14,Player,,그나저나 드디어 힘을 얻었군
+Player_6_15,Player,,그런데 나는 피를 얻어야 하는 거 아닌가? 힘은 어디다 쓰이는 거지?
+Player_6_16,Player,,흠… 일단 가지고 있어볼까
+Player_6_17,Player,,어디 한 번 잘 해보라고!
+한령_6_18,한령,,(키득키득)
+Player_6_19,Player,,이 근처에서 소리가 나는데?
+Player_6_20,Player,,깜짝이야! 여기 공간이 있었다니
+
+Conversation 7,New Conversation 7
+Description,
+entrytag,Actor,Description,Dialogue Text
