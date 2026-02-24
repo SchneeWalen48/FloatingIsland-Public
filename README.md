@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎮 하늘섬의 비밀 (The Secret of the Floating Island)
-### 어드벤처 게임
+### VR 어드벤처 게임
 <a href="https://youtu.be/3V6mZFfub60">
   <img width="100" height="100" alt="Youtube_logo"
     src="https://github.com/user-attachments/assets/2aa6f449-7ffa-4dd2-9086-232f5499456f" />
@@ -13,7 +13,7 @@
 
 **스토리 기반 어드벤처 게임**입니다.
 
-- 플랫폼: PC  
+- 플랫폼: PC/VR
 - 개발 엔진: Unity 2020.2.3f1 
 - 개발 기간: 2021.01 ~ 2021.10
 - 개발 인원: 팀 프로젝트 (4명)
