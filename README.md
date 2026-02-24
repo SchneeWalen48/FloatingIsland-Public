@@ -23,6 +23,7 @@
 실행 방법 : The Scret of Floating Island_Build 파일을 모두 다운로드 후, Floating Island.exe 실행
 <br>
 <br>
+<div align="left">
 조작법 : <br>
 - 이동 - WASD 또는 방향키
 - 점프2번 - 스페이스
@@ -31,6 +32,7 @@
 - 상자 열기 - 마우스 클릭
 - 상자 닫기 - 마우스 오른쪽 클릭
 - 공 던지기 - L 버튼
+</div>
 <br>
 예상 플레이 시간 : 2시간
 
