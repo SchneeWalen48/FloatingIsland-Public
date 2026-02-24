@@ -14,43 +14,14 @@ Unity 3D 2020.2.3f1 버전에서 제작하였습니다.
 
 <div align="center">
 
-# 🎮 하늘섬의 비밀
+# 🎮 하늘섬의 비밀 (The Secret of the Floating Island)
 ### 어드벤처 게임
-<a href="">
+<a href="https://youtu.be/3V6mZFfub60">
   <img width="100" height="100" alt="Youtube_logo"
     src="https://github.com/user-attachments/assets/2aa6f449-7ffa-4dd2-9086-232f5499456f" />
 </a>
 
 <br><br>
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img alt="_img" src="" />
-      <br/>
-      <b>설명</b>
-    </td>
-    <td align="center" width="33%">
-      <img alt="_img" src="" />
-      <br/>
-      <b>설명</b>
-    </td>
-    <td align="center" width="33%">
-      <img alt="_img" src="" />
-      <br/>
-      <b>설명</b>
-    </td>
-  </tr>
-</table>
-
-<br>
-
- **설명**  
- **설명**
-
-</div>
-
-<br><br><br>
 
 ---
 
