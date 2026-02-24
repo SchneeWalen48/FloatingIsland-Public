@@ -23,19 +23,15 @@
 실행 방법 : The Scret of Floating Island_Build 파일을 모두 다운로드 후, Floating Island.exe 실행
 <br>
 <br>
-<div align="left">
+<div align="center">
 조작법 : <br>
   <li>이동 - WASD 또는 방향키</li>
   <li>점프2번 - 스페이스</li>
   <li>회전 - 마우스 </li>
-  <li>이동 - WASD 또는 방향키 </li>
--  <br>
-- <br>
-- 달리기 - Shift <br>
-- 상자 열기 - 마우스 클릭 <br>
-- 상자 닫기 - 마우스 오른쪽 클릭
-- 공 던지기 - L 버튼
-</div>
+  <li>달리기 - Shift</li>
+  <li>상자 열기 - 마우스 클릭</li>
+  <li>상자 닫기 - 마우스 오른쪽 클릭</li>
+  <li>공 던지기 - L 버튼</li>
 <br>
 예상 플레이 시간 : 2시간
 
