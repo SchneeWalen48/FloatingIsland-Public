@@ -23,7 +23,7 @@
 실행 방법 : The Scret of Floating Island_Build 파일을 모두 다운로드 후, Floating Island.exe 실행
 <br>
 <br>
-<div align="center">
+<div align="center" width="60px">
 조작법 : <br>
   <ul align="left">
     <li>이동 - WASD 또는 방향키</li>
