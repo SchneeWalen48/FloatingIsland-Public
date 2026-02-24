@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎮 하늘섬의 비밀 (The Secret of the Floating Island)
-### VR 어드벤처 게임
+### VR/PC 어드벤처 게임
 <a href="https://youtu.be/3V6mZFfub60">
   <img width="100" height="100" alt="Youtube_logo"
     src="https://github.com/user-attachments/assets/2aa6f449-7ffa-4dd2-9086-232f5499456f" />
